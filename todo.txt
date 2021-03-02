@@ -1,0 +1,6 @@
+cewl:
+ASCII art obv
+error handling
+deal with arguments better
+let users choose output file
+let users select cewl arguments
