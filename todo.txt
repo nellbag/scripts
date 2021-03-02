@@ -1,6 +1,11 @@
-cewl:
+cewl_list.sh:
 ASCII art obv
 error handling
 deal with arguments better
 let users choose output file
 let users select cewl arguments
+
+
+
+nmap_v1.sh:
+scrap it and start again?
