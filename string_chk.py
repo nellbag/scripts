@@ -1,6 +1,7 @@
 import re
 import io
 
+#assumes rockyou is saved in same folder under this filename
 file1 = io.open('rockyou.txt','r', encoding="latin-1")
 words = file1.readlines()
 
